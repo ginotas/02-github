@@ -9,7 +9,7 @@ _29 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for my real-life students! Thank you for your cooperation!
 
-Site published at https://ginotas.github.io/xxxxx
+Site published at https://ginotas.github.io/02-github/
 
 Design: Print screen of full dizain is in IMG folder. Name: 500error.jpg
 
